@@ -65,7 +65,7 @@
 
 ##  Demo
 
-[Watch the demo video](https://github.com/fabliha-akther/Firuma-From-Thoughts-to-Prompts/blob/main/demo.webm)
+[Watch the demo video](https://github.com/fabliha-akther/Firuma-From-Thoughts-to-Prompts/blob/main/demo.mp4)
 
 
 ---
